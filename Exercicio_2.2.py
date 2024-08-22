@@ -1,4 +1,4 @@
-# Exercício 2.2 	Digite a seguinte expressão no interpretador:
+# Exercício 2.2 	Digite a seguinte expressão no interpretador: 10 / 3 x 10² + 1 - 10 x 4 / 2
 
 # Tente resolver o mesmo cálculo, usando apenas lápis e papel. Observe como a prioridade das operações é importante.
 
